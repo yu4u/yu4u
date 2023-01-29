@@ -1,12 +1,12 @@
 ![yu4u's github stats](https://github-readme-stats.vercel.app/api?username=yu4u&show_icons=true&theme=default&count_private=true)
-
+<!--
 ![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ren4yu/competition/light)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ren4yu/dataset/light)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ren4yu/notebook/light)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ren4yu/discussion/light)
 
 
-<!--
+
 https://github.com/anuraghazra/github-readme-stats
 
 https://github.com/subinium/kaggle-badge
